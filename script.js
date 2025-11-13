@@ -9,7 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'PLAYLIST': 'playlist.html',
         'GALERÍA': 'galeria.html',
         'BLOG': 'blog.html',
-        'CONTACTO': 'contacto.html'
+        'CONTACTO': 'contacto.html',
+        'MÁS PAGINAS': 'paginas.html'
     };
 
     const navLinks = document.querySelectorAll('.navbar nav ul li a');
